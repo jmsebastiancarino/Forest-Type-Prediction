@@ -1,3 +1,5 @@
+<img src = "https://images.app.goo.gl/kLjvQYq8uxaEPC2o6"/>
+
 # Forest-Type-Prediction
 This is my first Kaggle competition. It is about predicting the different forest type given with various geographic features of Colorado. 
 
